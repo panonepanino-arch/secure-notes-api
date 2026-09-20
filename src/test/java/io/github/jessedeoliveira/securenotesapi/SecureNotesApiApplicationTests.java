@@ -1,0 +1,13 @@
+package io.github.jessedeoliveira.securenotesapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SecureNotesApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
